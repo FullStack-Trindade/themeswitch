@@ -1,0 +1,14 @@
+{
+  "configuracoes": [
+    {
+      "cores": {
+        "primary": "#1a7b93",
+        "secondary": "#8934a8"
+      },
+      "nomeEmpresa": "LabMedical System",
+      "slogan": "Sua saude em primeiro lugar!",
+      "logo": null,
+      "id": 1
+    }
+  ]
+}
